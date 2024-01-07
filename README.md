@@ -8,7 +8,6 @@
 - 📚 Proud holder of a 100% score in Meta's Front-End and Back-End Capstone Projects.
 
 📫 How to reach me:
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lpreet)
 
 ## 🪛 Toolbox
